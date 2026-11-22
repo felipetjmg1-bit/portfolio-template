@@ -1,4 +1,4 @@
-![Status: Experimental](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o%20base-blue) | [![Licença MIT](https://img.shields.io/github/license/felipetjmg1-bit/portfolio-template)](LICENSE) | [![Patrocinar](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
+![Status: Documentação base](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o%20base-blue) | [![Licença MIT](https://img.shields.io/github/license/felipetjmg1-bit/portfolio-template)](LICENSE) | [![Patrocinar](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
 
 <p align="center"><img src="PROJECT-OVERVIEW.svg" alt="Diagrama explicativo de Portfolio Template" width="100%"></p>
 
@@ -41,7 +41,7 @@ Não é possível demonstrar uso do suposto portfólio a partir de interfaces de
 
 ## Estado e limitações
 
-**Maturidade indicada:** Experimental.
+**Estado de entrega:** repositório documental sem aplicação executável.
 
 - Não afirmar que há site de portfólio funcional, recursos de IA/blockchain, soberania de dados ou sistemas de segurança: o README faz alegações de propósito, mas os arquivos públicos examinados não as comprovam.
 - Não propor comandos de instalação, execução ou testes como se fossem suportados; não foram encontrados manifestos, código ou workflows.
