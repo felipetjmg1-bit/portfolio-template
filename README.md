@@ -1,4 +1,4 @@
-![Status: Experimental](https://img.shields.io/badge/Status-Experimental-blue) | [![Licença MIT](https://img.shields.io/github/license/felipetjmg1-bit/portfolio-template)](LICENSE) | [![Patrocinar](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
+![Status: Experimental](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o%20base-blue) | [![Licença MIT](https://img.shields.io/github/license/felipetjmg1-bit/portfolio-template)](LICENSE) | [![Patrocinar](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
 
 <p align="center"><img src="PROJECT-OVERVIEW.svg" alt="Diagrama explicativo de Portfolio Template" width="100%"></p>
 
